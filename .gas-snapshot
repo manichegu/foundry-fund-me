@@ -1,0 +1,7 @@
+test_fundme:testFundFails() (gas: 31755)
+test_fundme:testFundUpdatesDataStructure() (gas: 101534)
+test_fundme:testMindollars() (gas: 7625)
+test_fundme:testOnlyOwnerWithDrawsMoney() (gas: 13014)
+test_fundme:testVersion() (gas: 13565)
+test_fundme:testWithMultipleFunders() (gas: 443827)
+test_fundme:testwithDrawWithaSingleFunder() (gas: 88443)
